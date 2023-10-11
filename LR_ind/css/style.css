@@ -1,7 +1,10 @@
-body {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
     background-image: url(../video/video.gif);
     background-repeat: no-repeat;
     background-attachment: fixed;
